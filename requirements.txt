@@ -1,13 +1,13 @@
-# Core dependencies
-streamlit
-numpy
-pandas
-opencv-python-headless==4.7.0.72  # Using headless version to avoid GUI dependencies
-plotly
+# Core dependencies with pinned versions to ensure compatibility
+streamlit==1.43.0
+numpy==1.24.3  # Use NumPy 1.x instead of 2.x for OpenCV compatibility
+pandas==2.0.1
+plotly==5.14.1
+opencv-python-headless==4.7.0.72
 
 # For HTML & interactive features
-jinja2
+jinja2==3.1.2
 
 # System utilities
-python-dateutil
+python-dateutil==2.8.2
 
