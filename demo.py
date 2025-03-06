@@ -32,7 +32,7 @@ st.markdown("""
     }
     
     .main {
-        background-color: white;
+        background-color: rgba(255, 255, 255, 1);
         padding-top: 0 !important;
     }
     
