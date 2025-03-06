@@ -1,13 +1,11 @@
 # Core dependencies
-streamlit==1.43.0
-numpy==1.24.3
-pandas==2.0.1
-opencv-python==4.7.0.72
-plotly==5.14.1
-
+streamlit
+numpy
+pandas
+opencv-python
+plotly
 # For HTML & interactive features
-jinja2==3.1.2
-
+jinja2
 # System utilities
-python-dateutil==2.8.2
+python-dateutil
 
