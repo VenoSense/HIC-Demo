@@ -2,10 +2,12 @@
 streamlit
 numpy
 pandas
-opencv-python
+opencv-python-headless==4.7.0.72  # Using headless version to avoid GUI dependencies
 plotly
+
 # For HTML & interactive features
 jinja2
+
 # System utilities
 python-dateutil
 
