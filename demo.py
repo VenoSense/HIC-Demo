@@ -114,7 +114,7 @@ st.markdown("""
     
     .metric-item {
         flex: 1 1 48%;
-        background-color: #f0f7ff;
+        background-color: white; /* Changed to white */
         padding: 8px;
         border-radius: 8px;
         text-align: center;
